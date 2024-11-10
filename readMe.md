@@ -1,4 +1,4 @@
-# Lua 101
+# Lua 101 Print
 
 ```
 This Lua programing project create for my portfolio 
